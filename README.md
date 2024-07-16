@@ -6,7 +6,7 @@ Com sua grade flexível e sistema de layout responsivo, o Bootstrap permite que 
 
 Ao concluir meu treinamento na **Alura** sobre Bootstrap, adquiri habilidades valiosas para implementar design responsivo em meus projetos, otimizando a usabilidade e a estética das aplicações web.
 
-## Links do Projetos desenvolvidos no Treinamento, clique e confira:
+## Link dos Projetos desenvolvidos no Treinamento, clique e confira:
 
 - [E-Comerce de uma loja de roupas, Meteora](https://misael1981.github.io/meteora/)
    - [GitHub do projeto](https://github.com/Misael1981/meteora)
